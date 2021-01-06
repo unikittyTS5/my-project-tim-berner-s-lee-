@@ -35,7 +35,7 @@ h2 {
     right: 0;
     bottom: 0;
     opacity: 0.83;
-    background: cyan;
+    background:linear-gradient(to right,aqua,fuchsia,blue,violet,cyan);
     display: table;
     width: 100%;
     height: 100%;
